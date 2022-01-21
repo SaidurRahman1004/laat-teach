@@ -1,0 +1,262 @@
+*{
+    box-sizing: border-box;
+}
+
+/* smomething */
+p{
+    font-size: 23px;
+    text-align: center;
+    color: blue;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(0, 162, 255);
+}
+
+img{
+    width: 400px;
+    height: 500px;
+
+   
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 950px;
+    height: 600px;
+
+}
+
+a{
+    align: center;
+    font-size: 25px;
+    color: red;
+    text-decoration: none;
+    
+  
+}
+
+form{
+    padding: 15px;
+    background-color: chartreuse;
+    color: rgb(248, 42, 6);
+    text-align: center;
+}
+
+.iframe3 a{
+    text-decoration: none;
+}
+/* background-size: 2024px 1420px; used */
+/* .ind1{
+    background: url("https://media1.giphy.com/media/U3qYN8S0j3bpK/giphy.webp?cid=ecf05e47tio8twhcc8uw3a4s9z64ohlu5gjildjk66jgtgjq&rid=giphy.webp&ct=g");
+
+    background-size: 1900px 1420px;;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+} */
+
+/* background-size: 2024px 1420px; used */
+.ind2{
+    display: inline;
+    background-color: yellow;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    max-width: 600px;
+
+}
+
+
+
+.idind2{
+    max-width: 50%;
+     color: rgb(241, 104, 12);
+     border: 4px solid red;
+     text-align: center;
+     padding: 15px;
+     margin-left: 400px ;
+     margin-right: 400px;
+     background-color: rgb(255, 255, 41);
+    border-width: auto;
+ 
+ }
+ 
+
+.if65{
+    color: blue;
+    border: 2px solid green;
+    
+    
+    padding: 2px;
+    background-color: greenyellow;
+    text-shadow: 1px 1px red;
+    outline-color: salmon;
+
+}
+.if65:hover{
+    background-color: blue;
+}
+.if65 a{
+    text-decoration: none;
+    border: 2px dotted black;
+    padding: 2px;
+    outline: 1px solid rgb(69, 8, 212);
+}
+.if2{
+    display: inline;
+    margin: 350px;
+    color: cornsilk;
+    background-color: red;
+    font-size: xx-large;
+    border: 3px solid rgb(24, 61, 226);
+}
+/* background-color: rgb(239, 250, 91); */
+.ifB12{
+    font-family: 'Oooh Baby', cursive;
+    background-color: rgba(89, 173, 134, 0.479);
+    
+}
+/* ink.index.html end */
+.ik3{
+    display: block;
+    width: 150px;
+    margin: auto;
+    padding: 2px;
+    background-color: rgb(23, 73, 238);
+    border-radius: 15px 15px;
+    color: rgb(7, 7, 6); 
+}
+
+.ik3:link{
+    background-color: rgb(6, 209, 33);
+    color: rgb(6, 7, 6); 
+}
+
+.ik3:visited{
+    background-color: red;
+    color: rgb(48, 45, 175); 
+}
+
+.ik3:hover{
+    background-color: green;
+    color: red; 
+}
+.ik3:active{
+    background-color: brown;
+    color: yellow; 
+}
+
+/* ink.index.html end */
+
+#wihi1{
+background-color: rgb(6, 9, 189);
+padding: 5px;
+margin-top: -20px;
+position: sticky;
+top: 0;
+}
+
+#wihi1:hover{
+    background-color: rgba(4, 186, 236, 0.678);
+    
+    
+    }
+.me1Heomepage{
+    color: yellow;
+    border: 2px solid black;
+    background-color: tomato;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px 10px;
+    
+
+    
+
+}
+
+
+.me1Heomepage:hover{
+    color: rgb(66, 44, 29);
+    
+    background-color: rgb(21, 221, 88);
+    
+    
+
+    
+
+}
+
+
+.me1HelpDeskMedia{
+    color: yellow;
+    border: 2px solid black;
+    background-color: tomato;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px 10px;
+    float: right;
+    overflow: auto;
+    margin-top: -8px;
+    padding: 5px;
+
+}
+
+.me1HelpDeskMedia:hover{
+    color: rgb(66, 44, 29);
+    
+    background-color: rgb(21, 221, 88);
+    
+    
+
+    
+
+}
+
+/* worded link2 */
+.vediow12{
+    display: block;
+    padding: 25px;
+    width: 170px;
+    margin: auto;
+    background-color: rgb(38, 161, 120);
+    color: rgb(253, 254, 255);
+    border-radius: 20px 20px;
+    
+    
+}
+
+.vediow12:hover{
+    background-color: white;
+    color: black;
+      
+}
+
+/* worded link2 end */
+
+@media only screen and (max-width: 604.8px){
+    boby{
+        background: url("https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131__340.jpg");
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .ind1{
+        background: url("https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131__340.jpg");  
+    }
+}
+/* abbr */
+abbr{
+    text-decoration: none;
+}
+.container{
+    margin-top: 30px;
+}
+
+
