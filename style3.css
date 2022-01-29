@@ -1,0 +1,25 @@
+#sec1{
+    background-color: #E9ECEF;
+
+    
+    text-align: center;
+}
+.jumbotron{
+    background-color: #FFFFFF;
+   
+}
+#jub45{
+    font-family: 'Playfair Display', serif;
+}
+img{
+    margin: auto;
+}
+abbr{
+    font-family: serif;
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+#body{
+   background-color: #E9ECEF;
+}
