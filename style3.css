@@ -8,6 +8,10 @@
     background-color: #FFFFFF;
    
 }
+.jumbotron:hover{
+    background-color: #b9e9f8;
+   
+}
 #jub45{
     font-family: 'Playfair Display', serif;
 }
@@ -23,3 +27,34 @@ abbr{
 #body{
    background-color: #E9ECEF;
 }
+
+.responsive{
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    
+}
+
+.text{
+    font-size: 35px;
+    align-items: center;
+    font-weight: bold;
+}
+
+.row{
+    align-items: center;
+    justify-content: center;
+}
+.col-md-12{
+    margin: auto;
+}
+.sec56last{
+    background-color: rgb(70, 55, 55);
+    
+}
+
+footer{
+    font-size: xx-large;
+}
+
+
