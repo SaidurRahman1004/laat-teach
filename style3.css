@@ -50,7 +50,11 @@ abbr{
     margin: auto;
 }
 .sec56last{
-    background-color: rgb(70, 55, 55);
+    background: #16222A;
+  background: -webkit-linear-gradient(59deg, #3A6073, #16222A);
+  background: linear-gradient(59deg, #3A6073, #16222A);
+  color: white;
+  margin-top:100px;
     
 }
 
@@ -65,6 +69,3 @@ footer{
     background-color: rgba(198, 218, 255, 0.658)!important;
 }
 
-.navbar:hover{
-    background-color: rgba(79, 139, 250, 0.658)!important;
-}
