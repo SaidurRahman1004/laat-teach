@@ -5,4 +5,12 @@
 .col-sm-6{
     padding-top: 10px;
 }
+.navbar{
+    background-color: #563d7c!important;
+    
+}
+.navbar:hover{
+    background-color: rgba(94, 97, 221, 0.781)!important;
+    
+}
 
