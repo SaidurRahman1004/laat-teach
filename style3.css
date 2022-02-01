@@ -62,13 +62,17 @@ footer{
     font-size: xx-large;
 }
 #hom45{
-    background-color: #F4F7FC;
+    background-color: #abc6f5;
 }
 
 .navbar{
-    background-color: rgba(198, 218, 255, 0.658)!important;
+    background-color: rgb(26, 100, 238)!important;
+    
 }
 
+.navbar:hover{
+    background-color: rgba(13, 43, 99, 0.986)!important;
+}
 /* nav logo imagej */
 .logo-image{
     width: 46px;
