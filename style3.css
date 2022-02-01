@@ -69,3 +69,11 @@ footer{
     background-color: rgba(198, 218, 255, 0.658)!important;
 }
 
+/* nav logo imagej */
+.logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+  }
